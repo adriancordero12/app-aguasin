@@ -1,0 +1,109 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+.container{
+    /* border: 1px rgb(0, 0, 0) solid; */
+    width: 260px;
+}
+.header{
+    text-align: center;
+    margin-top: 18px;
+    font-size: 25px;
+    
+}
+.direccion{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 15px;
+
+}
+.telefono{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.divi{
+    text-align: center;
+}
+.time{
+    margin-left: 14px;
+}
+.fecha{
+    margin-top: 8px;
+    font-size: 15px;
+
+}
+.hora{
+    font-size: 17px;
+    
+}
+.items{
+    display: flex;
+
+}
+.descripcion{
+    margin-left: 10px;
+    text-align: center;
+    font-size: 14px;
+}
+.canti{
+    margin-left: 10px;
+    font-size: 14px;
+}
+.itbis{
+    margin-left: 10px;
+    font-size: 14px;
+}
+.precio{
+    margin-left: 10px;
+    font-size: 14px; 
+}
+.importee{
+    margin-left: 10px;
+    margin-right: 5px;
+    font-size: 14x;
+}
+.resultado{
+    display: flex;
+    
+}
+.descri{
+    margin-left: 14px;
+}
+.cant{
+    margin-left: 30px;
+    font-size: 15px;
+    
+}
+.itbi{
+    margin-left: 20px;
+    font-size: 15px;
+}
+.preci{
+    margin-left: 23px;
+}
+.impo{
+    margin-left: 33px;
+}
+
+
+
+
+.container-total{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+ 
+}
+.total{
+    margin-top: 35px;
+    margin-right: 18px;
+    font-size: 18px;
+    display: flex;
+}
+#totalA{
+    margin-left: 30px;
+}
+
+

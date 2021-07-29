@@ -1,0 +1,15 @@
+{
+  "name": "app-aguasin",
+  "version": "1.0.0",
+  "description": "Aplicación multiplataforma en computadoras para efectuar facturas, para un negocio de agua potable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git clone https://github.com/adriancordero12/app-aguasin.git"
+  },
+  "author": "Adrian Cordero",
+  "license": "ISC"
+}
