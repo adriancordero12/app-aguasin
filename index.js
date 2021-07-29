@@ -65,7 +65,7 @@ const enviar = () => {
 
     noNull()
     //let url = "file:///Users/adriancordero/Documents/Proyectos/app-agua/cambio/factura/factura.html"
-    let url = "factura/factura.html";
+    let url = "src/factura/factura.html";
     window.open(url, "Multiplataforma", "width=300, height=335");
 }
 
